@@ -1,7 +1,7 @@
 {
   "name": "plus-protocol",
   "version": "1.0.0",
-  "description": "Smart exchange frontend",
+  "description": "Smart exchange frontend with support for i18n.",
   "author": "ilichh1",
   "private": true,
   "scripts": {
