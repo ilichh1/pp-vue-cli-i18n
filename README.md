@@ -1,6 +1,6 @@
 # plus-protocol
 
-> Smart exchange frontend
+> Smart exchange frontend with i18n support.
 
 ## Build Setup
 
